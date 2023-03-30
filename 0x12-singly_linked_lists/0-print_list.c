@@ -20,4 +20,4 @@ h = h->next;
 s++;
 }
 return (s);
-
+}
